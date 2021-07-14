@@ -3,6 +3,13 @@
 Senior QA Engeneer and 
 Junior Software Developer
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=vinovinka&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=vinovinka&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/vinovinka/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinovinka&layout=compact"/></a>
+</p>
+
 ## About me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vinovinka)
@@ -15,3 +22,9 @@ How to reach me: vinovinka@gmail.com
 
 ## Technical stack
 - Swift, Kotlin, Java languages
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/vinovinka/github-profile-views-counter">
+       <img width="100px" src="https://komarev.com/ghpvc/?username=vinovinka&color=DE002D">
+   </a>
+</div>
