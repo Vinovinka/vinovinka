@@ -23,8 +23,8 @@ How to reach me: vinovinka@gmail.com
 ## Technical stack
 - Swift, Kotlin, Java languages
 
-<div align="center" style="margin: 40px 0">
+<!-- <div align="center" style="margin: 40px 0">
    <a href="https://github.com/vinovinka/github-profile-views-counter">
        <img width="100px" src="https://komarev.com/ghpvc/?username=vinovinka&color=DE002D">
    </a>
-</div>
+</div> -->
