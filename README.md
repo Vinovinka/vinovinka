@@ -19,6 +19,8 @@ How to reach me: vinovinka@gmail.com
 
 ### Key points
 - creator and author of [mobile_testing](https://t.me/mobile_testing) telegram channel
+- quality engineer
+- automation engineer 
 
 ## Technical stack
 - Swift, Kotlin, Java languages
