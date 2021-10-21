@@ -4,8 +4,6 @@ Senior QA Engeneer and
 Junior Software Developer
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=vinovinka&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=vinovinka&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/vinovinka/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinovinka&layout=compact"/></a>
 </p>
