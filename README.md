@@ -1,12 +1,7 @@
 ### Hi, I'm Victoria 👋
 
 Senior QA Engeneer and 
-Junior Software Developer
-
-<p align='center'>
-   <a href="https://github.com/vinovinka/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinovinka&layout=compact"/></a>
-</p>
+Junior iOS Developer
 
 ## About me
 
@@ -16,12 +11,17 @@ Junior Software Developer
 How to reach me: vinovinka@gmail.com
 
 ### Key points
-- creator and author of [mobile_testing](https://t.me/mobile_testing) telegram channel
-- quality engineer
+- creator [mobile_testing](https://t.me/mobile_testing) telegram channel
+- mobile QA engineer
 - automation engineer 
 
 ## Technical stack
-- Swift, Kotlin, Java languages
+[![Swift](https://img.shields.io/badge/Swift-2CA5E0?style=for-the-badge)]()
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-orange?style=for-the-badge)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-green?style=for-the-badge)]()
+[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)]()
+[![Espresso](https://img.shields.io/badge/Espresso-brown?style=for-the-badge)]()
+[![Appium](https://img.shields.io/badge/Appium-blue?style=for-the-badge)]()
 
 <!-- <div align="center" style="margin: 40px 0">
    <a href="https://github.com/vinovinka/github-profile-views-counter">
