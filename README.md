@@ -1,6 +1,6 @@
 ### Hi, I'm Victoria 👋
 
-Senior QA Engeneer and 
+Senior QA Engineer and 
 Junior iOS Developer
 
 ## About me
