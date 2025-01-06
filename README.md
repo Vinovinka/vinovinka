@@ -1,14 +1,37 @@
-### Hi, I'm Victoria 👋
+### Hi, I’m Viktoria 👋
+### Senior QA Automation Engineer | Junior iOS Developer | Mentor | Blogger
 
-Senior QA Automation Engineer, 
-Junior iOS Developer, explorer of solutions for life and fun.
+🚀 Passionate about building solutions that simplify lives and inspire growth.
 
-## About me
+🛠️Key Projects:
+
+   - Created iOS PeriodTracker app, empowering women to track their cycles effectively without
+   - Implemented and integrated testing frameworks for API and Web automation, ensuring comprehensive test coverage for projects
+   - Mentor colleagues aspiring to become automation engineers, providing guidance and code reviews
+
+💡Tech Stack:
+   - Languages: Kotlin, Swift
+   - Frameworks: SpringBoot, JUnit, Playwright, XCUItest, Kaspresso
+   - CI/CD: Gitlab, Gradle, Marathon
+   - Testing: REST API, GraphQL, PostgreSQL, iOS, Android
+ 
+✨ Soft Skills:
+   - Efficient problem solver – I plan, execute, and optimize without delays.
+   - Collaborative mentor, helping colleagues write cleaner, more effective code.
+   - Detail-oriented reviewer, striving for excellence in every task.
+ 
+🌱 Future Goals:
+   - Continue advancing in QA automation and sharing knowledge through blogging.
+   - Develop unique, impactful iOS apps that bring joy and utility.
+ 
+🎨 Personal Interests:
+   - Language learning (English & French).
+   - Running blogs about mobile testing and tech insights on Telegram & Instagram.
+
+## Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vinovinka)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-vinogradova-b4075a193)
-
-How to reach me: vinovinka@gmail.com
 
 ### Key points
 - creator [mobile_testing](https://t.me/mobile_testing) telegram channel
