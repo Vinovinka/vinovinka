@@ -1,7 +1,7 @@
 ### Hi, I'm Victoria 👋
 
-Senior QA Engineer and 
-Junior iOS Developer
+Senior QA Automation Engineer, 
+Junior iOS Developer, explorer of solutions for life and fun.
 
 ## About me
 
