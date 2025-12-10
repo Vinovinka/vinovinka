@@ -1,42 +1,36 @@
-### Hi, I’m Viktoria 👋
-### Senior QA Automation Engineer | Junior iOS Developer | Mentor | Blogger
+### Hi, I’m Viktoria | Senior QA Automation Engineer | iOS | Android
 
-🚀 Passionate about building solutions that simplify lives and inspire growth.
+🚀 Passionate about building **robust automation solutions** that simplify lives, ensure quality, and inspire team growth
 
-🛠️Key Projects:
+### 🛠️ Key Projects & Leadership
 
-   - Created iOS PeriodTracker app, empowering women to track their cycles effectively without
-   - Implemented and integrated testing frameworks for API and Web automation, ensuring comprehensive test coverage for projects
-   - Mentor colleagues aspiring to become automation engineers, providing guidance and code reviews
+*   **Architected Test Frameworks:** From zero to production. Implemented and integrated scalable automation for API and Web, ensuring comprehensive test coverage
+*   **Mentorship & Code Quality:** Guide colleagues in their transition to automation through hands-on coaching, pair programming, and detailed code reviews
 
-💡Tech Stack:
-   - Languages: Kotlin, Swift
-   - Frameworks: SpringBoot, JUnit, Playwright, XCUItest, Kaspresso
-   - CI/CD: Gitlab, Gradle, Marathon
-   - Testing: REST API, GraphQL, PostgreSQL, iOS, Android
+### 💡 Tech Stack
+*   **Languages:** Kotlin, Swift, Python
+*   **Frameworks & Tools:** SpringBoot, JUnit, Playwright, XCUItest, Kaspresso, Espresso
+*   **CI/CD & DevOps:** GitLab CI/CD, Gradle, Marathon, Fastlane
+*   **Testing Expertise:** REST & GraphQL API, Mobile (iOS/Android), Database (PostgreSQL, MongoDB)
+
+### ✨ My Approach
+*   **Efficient Problem Solver:** Focus on planning, execution, and optimization of sustainable solutions
+*   **Collaborative Mentor:** Committed to helping teams write cleaner, more effective code
+*   **Detail-Oriented Quality Advocate:** Strive for excellence in every task and release
  
-✨ Soft Skills:
-   - Efficient problem solver – I plan, execute, and optimize without delays.
-   - Collaborative mentor, helping colleagues write cleaner, more effective code.
-   - Detail-oriented reviewer, striving for excellence in every task.
- 
-🌱 Future Goals:
-   - Continue advancing in QA automation and sharing knowledge through blogging.
-   - Develop unique, impactful iOS apps that bring joy and utility.
- 
-🎨 Personal Interests:
-   - Language learning (English & French).
-   - Running blogs about mobile testing and tech insights on Telegram & Instagram.
+### 🌱 Looking Forward
+*   Advancing in **QA automation architecture** and sharing knowledge through blogging
+*   Developing unique, impactful iOS apps that bring joy and utility
+*   Exploring **AI-powered testing tools**
+
+### 🎨 Beyond Code
+*   Language learning (English & French)
+*   Running tech blogs about mobile testing and other stories on [Telegram](https://t.me/mobile_testing)
 
 ## Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vinovinka)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-vinogradova-b4075a193)
-
-### Key points
-- creator [mobile_testing](https://t.me/mobile_testing) telegram channel
-- mobile QA engineer
-- automation engineer 
 
 ## Technical stack
 [![Swift](https://img.shields.io/badge/Swift-2CA5E0?style=for-the-badge)]()
